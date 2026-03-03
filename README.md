@@ -16,5 +16,5 @@ Sürekli öğrenmeyi seven, problem çözmeye tutkulu ve temiz kod (Clean Code) 
 - Veritabanındaki bu bilgileri dış dünyaya sunan, filtreleme özellikli kendi RESTful Web API'mi geliştirdim.
 
 ### 📫 Bana Ulaşın
-- **LinkedIn:** [(https://www.linkedin.com/in/feriha-d%C3%B6k%C3%BCc%C3%BC-613645259/)]
+- **LinkedIn:** [www.linkedin.com/in/ferihadokucu]
 - **E-posta:** [ferihadokucu3@gmail.com]
