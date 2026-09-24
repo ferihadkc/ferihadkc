@@ -1,20 +1,28 @@
 # Merhaba, Ben Feriha! 👋
 
-**Junior .NET / Backend Geliştiricisi** 🚀
+**Junior / Backend Developer** 🚀
 
-Sürekli öğrenmeyi seven, problem çözmeye tutkulu ve temiz kod (Clean Code) prensiplerini benimseyen bir yazılımcıyım. Özellikle **C#**, **.NET Core** ve **RESTful API** mimarileri üzerinde çalışıyor; dış sistemlerle (EPİAŞ gibi) karmaşık veri entegrasyonları ve ETL süreçleri geliştiriyorum.
+2026 Yazılım Mühendisliği mezunuyum. **C#**, **.NET** ve **RESTful API** geliştirme üzerine çalışıyorum. Dış sistemlerle veri entegrasyonu, ilişkisel veri modelleme ve katmanlı backend mimarileri ilgi alanlarım. Temiz, okunabilir ve bakımı kolay kod yazmayı önemsiyorum.
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
-- **Diller:** C#, JavaScript, HTML/CSS
-- **Backend Mimarisi:** .NET Core, ASP.NET Web API, Entity Framework Core, LINQ
-- **Veritabanı:** MS SQL Server
-- **Kavramlar & Araçlar:** RESTful Mimari, Dependency Injection, JSON/DTO Dönüşümleri, Swagger, Git & GitHub, Postman
+### 🛠️ Teknolojiler ve Araçlar
+- **Diller:** C#, Python, JavaScript, HTML/CSS
+- **Backend:** .NET 8, ASP.NET Core Web API, Entity Framework Core, LINQ
+- **Veritabanı:** MS SQL Server, ADO.NET
+- **Mimari & Kavramlar:** RESTful API, Clean Architecture, Repository Pattern, Dependency Injection, DTO Mapping
+- **Araçlar:** Git & GitHub, Swagger (OpenAPI), Postman, Claude Code
 
-### 🌱 Yakın Zamanda Neler Yaptım?
-- EPİAŞ API'leri üzerinden gerçek zamanlı enerji üretim ve tüketim verilerini çeken, Token (TGT) tabanlı doğrulama yapan entegrasyonlar yazdım.
-- Çekilen verileri Entity Framework kullanarak SQL veritabanına kaydeden ETL süreçleri tasarladım.
-- Veritabanındaki bu bilgileri dış dünyaya sunan, filtreleme özellikli kendi RESTful Web API'mi geliştirdim.
+### 💼 Deneyim
+- **Akademie Brücke** – Stajyer Yazılım Geliştirici *(Ağu 2026 – Eyl 2026)*
+  Bir seyahat acentesi platformunun yönetim paneline muhasebe modülü geliştirdim, kullanıcı tarafındaki hataları giderdim.
+- **Akedaş Elektrik Dağıtım A.Ş.** – Stajyer Yazılım Geliştirici *(Ağu 2025 – Eyl 2025)*
+  EPİAŞ API entegrasyonu ile büyük hacimli enerji verisini SQL Server'a aktaran asenkron bir veri akışı geliştirdim.
+
+### 🌱 Öne Çıkan Çalışmalar
+- **EPİAŞ Veri Entegrasyonu:** Token (TGT) tabanlı kimlik doğrulama ile enerji üretim ve tüketim verilerini çeken, Entity Framework Core ile SQL Server'a kaydeden bir ETL süreci ve bu verileri filtreleme desteğiyle sunan bir RESTful Web API.
+- **Üniversite İçerik Yönetim Sistemi (CMS):** Fakülte içeriklerinin yönetildiği kurumsal sistemde sayfalama altyapısı ve çoklu fakülte yönetimi özellikleri; ekip içinde branch ve PR süreciyle çalışma.
+- **Fonemist:** Türkçe fonem analizi destekli dil ve konuşma terapisi platformu; API mimarisi ve veri modeli tasarımı.
+- **Maaş Tahmini (ML):** 15.000 iş ilanı verisiyle XGBoost tabanlı maaş tahmin modeli ve Streamlit arayüzü.
 
 ### 📫 Bana Ulaşın
-- **LinkedIn:** [www.linkedin.com/in/ferihadokucu]
-- **E-posta:** [ferihadokucu3@gmail.com]
+- **LinkedIn:** [linkedin.com/in/ferihadokucu](https://www.linkedin.com/in/ferihadokucu)
+- **E-posta:** ferihadokucu3@gmail.com
